@@ -2,10 +2,6 @@
 
 ***
 ## Stack de tecnologías
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>       
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,bootstrap,tailwind,cs,dotnet,postman,css,html,docker,git,github,jquery,linux,mysql)](https://skillicons.dev)
           
           
