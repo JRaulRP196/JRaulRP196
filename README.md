@@ -7,7 +7,7 @@
       <p>
         Soy desarrollador Full Stack apasionado por crear soluciones 
         eficientes y escalables. Me encanta aprender nuevas tecnologías 
-        y contribuir a proyectos open source. Cuando no estoy programando, 
+        y crear proyectos propios. Cuando no estoy programando, 
         probablemente estoy tomando café ☕ o jugando videojuegos 🎮.
       </p>
     </td>
