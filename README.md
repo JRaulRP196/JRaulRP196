@@ -8,7 +8,8 @@
         Soy desarrollador Full Stack apasionado por crear soluciones 
         eficientes y escalables. Me encanta aprender nuevas tecnologías 
         y crear proyectos propios. Cuando no estoy programando, 
-        probablemente estoy tomando café ☕ o jugando videojuegos 🎮.
+        probablemente estoy tomando café ☕ o jugando videojuegos 🎮, mis 
+        dos pasiones.
       </p>
     </td>
     <td width="40%" valign="middle" style="border: none;">
